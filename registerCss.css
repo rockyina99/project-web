@@ -1,0 +1,120 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+a
+{
+    text-decoration: none;
+}
+
+input[type="text"]:focus
+{
+    color: red;
+    border-color: red;
+}
+
+.header-form
+{
+    margin: 20px 0px;
+}
+.header-form-link
+{
+    font-size: 17px;
+    padding: 0px 0px 0px 1500px;
+}
+.link100
+{
+    padding: 0px 40px 0px 0px;
+}
+.link100:hover
+{
+    cursor: pointer;
+    color: red;
+}
+
+.register
+{
+    margin:0px;
+    width: 100%;
+    height: 400px;
+    padding: 200px 0px;
+    background-image: url("../image/background/smarthpone.jpg");
+
+}
+.register-form
+{
+    margin: 50px 600px;
+    width: 800px;
+    font-family: sans-serif;
+}
+.register-form-title
+{
+    font-size: 40px;
+    font-family: Arial;
+    color: #FF0000;
+    text-align: center;
+}
+.register-form-input
+{
+    text-align: center;
+}
+.register-box
+{
+    padding: 10px 0px;
+}
+.register-box-input-two-colomns
+{
+    border-radius: 2px;
+    width: 350px;
+    height: 30px;
+}
+.register-box-input-one-columns
+{
+    border-radius: 2px;
+    width: 710px;
+    height: 25px;
+}
+.register-form-file
+{
+    display: flex;
+    padding: 10px 0px 10px 45px;
+    font-size: 18px;
+}
+.file
+{
+    color: white;
+}
+.register-form-gender
+{
+    display: flex;
+    padding: 0px 0px 0px 150px;
+    color: white;
+}
+.gender:hover
+{
+    cursor: pointer;
+}
+.button
+{
+    width: 710px;
+    height: 40px;
+    font-size: 16px;
+    color: white;
+    background-color: red;
+}
+
+h2
+{
+    font-size: 15px;
+}
+.footer-form
+{
+    padding: 0px 100px;
+    display: flex
+}
+.footer-img
+{
+    width: 15px;
+    height: 15px;
+}
